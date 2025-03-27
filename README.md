@@ -61,10 +61,13 @@ Using the Chrome Extension:
 
 # Screenshots & Demo:
 
+![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_4.png)
 
+![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_3.png)
 
+![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_2.png)
 
-- A quick demo showing how the Research Assistant processes content via the Chrome extension.
+![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_1.png)
 
 # API Endpoints
 The backend service exposes a key endpoint for content summarization:
