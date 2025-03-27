@@ -61,13 +61,18 @@ Using the Chrome Extension:
 
 # Screenshots & Demo:
 
-![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_4.png)
+- The Resarch Assistant ask you to select some text of any documentation or blog.
+![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_1.png)
 
-![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_3.png)
-
+- As you select the text and click on summarize button it summarize the docs content that you selected.
 ![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_2.png)
 
-![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_1.png)
+-if you want to save the notes you can select the summary notes and put it on the save notes box and press enter
+![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_3.png)
+
+-Lastly you'll get a pop up that says your notes have been saved successfully you can access it anytime.
+![image alt](https://github.com/Avani55/Smart_ResearchAssistant/blob/757b72954e87c69671c6e787b2e7c9e7d70be944/Demo_4.png)
+
 
 # API Endpoints
 The backend service exposes a key endpoint for content summarization:
